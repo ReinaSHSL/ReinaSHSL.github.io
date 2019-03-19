@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY ./yohane /usr/share/nginx/html
+COPY ./yohane/ /usr/share/nginx/html
